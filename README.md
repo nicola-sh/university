@@ -1,3 +1,3 @@
 # university
-# BSU FAMCS
+ BSU FAMCS
  - Uploaded 5 os labs
